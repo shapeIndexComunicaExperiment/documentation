@@ -1,4 +1,4 @@
-# Complementary material for the paper Traveling with a Map: Optimizing the Search Space of Link Traversal Queries Using RDF Data Shapes
+# Supplemental material for the paper Traveling with a Map: Optimizing the Search Space of Link Traversal Queries Using RDF Data Shapes
 
 This repository provides a guide to the complementary material available.
 
