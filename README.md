@@ -15,7 +15,7 @@ The official results of the paper are presented in the [results repository](http
 Multiple experiment repositories have been created to facilitate their execution in multiple machines.
 The following line provides a brief description of the experiment and a link to the git repository.
 
-- [Analysis of query-shape containment algorithm](https://anonymous.4open.science/r/query-shape-detection-ED87)
+- [Analysis of query-shape subsumption algorithm](https://anonymous.4open.science/r/query-shape-detection-ED87)
 
 
 - [Oracle of source selection](https://anonymous.4open.science/r/source-selection-oracle-3231)
