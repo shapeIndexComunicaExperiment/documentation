@@ -2,10 +2,14 @@
 
 This repository provides a guide to the complementary material available.
 
+## Open Source Software
+- [Comunica SPARQL Query Engine with Shape-Index Support](https://anonymous.4open.science/r/comunica-feature-link-traversal-AE1C)
+- [Query-Shape Subsumption Solver](https://anonymous.4open.science/r/query-shape-detection-ED87/)
+- [Shape-Index Generator](https://anonymous.4open.science/r/rdf-dataset-fragmenter_js-08B9)
+
 ## Analysis of results
-The [analysis repository](https://anonymous.4open.science/r/analysis-85DE/) generate the figures of the paper 
-Traveling with a Map: Optimizing the Search Space of Link Traversal Queries Using RDF Data Shapes
-with additional figures
+The [analysis repository](https://anonymous.4open.science/r/analysis-85DE/) generates the figures for the paper 
+*Traveling with a Map: Optimizing the Search Space of Link Traversal Queries Using RDF Data Shapes*, along with additional figures.
 
 ## Results 
 The official results of the paper are presented in the [results repository](https://anonymous.4open.science/r/results-E86D)
@@ -13,6 +17,7 @@ The official results of the paper are presented in the [results repository](http
 ## Experiments
 
 Multiple experiment repositories have been created to facilitate their execution in multiple machines.
+The queries used are the same across all experiments and are available in their respective `./queries` folder.
 The following line provides a brief description of the experiment and a link to the git repository.
 
 - [Analysis of query-shape subsumption algorithm](https://anonymous.4open.science/r/query-shape-detection-ED87)
