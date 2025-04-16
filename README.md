@@ -3,7 +3,7 @@
 This repository provides a guide to the Supplementary material available.
 
 ## Open Source Software
-- [Comunica SPARQL Query Engine with Shape-Index Support](https://github.com/constraintAutomaton/comunica-feature-link-traversal/tree/feature/shapeIndex)
+- [Comunica SPARQL Query Engine with Shape-Index Support](https://github.com/constraintAutomaton/comunica-feature-link-traversal/tree/iswc2025)
 - [Query-Shape Subsumption Solver](https://github.com/constraintAutomaton/query-shape-detection/)
 - [Shape-Index Generator](https://github.com/constraintAutomaton/rdf-dataset-fragmenter.js/tree/feature/shape-index-fragmentation-strategy)
 - [Benchmark Data and Query Templates](https://github.com/SolidBench/SolidBench.js)
