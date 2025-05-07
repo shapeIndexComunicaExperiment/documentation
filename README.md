@@ -2,12 +2,6 @@
 
 This repository provides a guide to the complementary material available.
 
-
-## Additional Analysis of the Subsumption Algorithm
-
-Detailed analysis of the $subsums_{\mathrm{graph\ star}}$ time complexity and the complete resolution algorithm can be found [here](https://anonymous.4open.science/r/time-complexity-9E73/README.md).
-
-
 ## Open Source Software
 - [Comunica SPARQL Query Engine with Shape-Index Support](https://anonymous.4open.science/r/comunica-feature-link-traversal-AE1C)
 - [Query-Shape Subsumption Solver](https://anonymous.4open.science/r/query-shape-detection-ED87/)
