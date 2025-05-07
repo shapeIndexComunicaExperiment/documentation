@@ -2,10 +2,6 @@
 
 This repository provides a guide to the Supplementary material available.
 
-## Additional Analysis of the Subsumption Algorithm
-
-Detailed analysis of the $subsums_{\mathrm{graph\ star}}$ time complexity and the complete resolution algorithm can be found [here](https://github.com/shapeIndexComunicaExperiment/time-complexity).
-
 ## Open Source Software
 - [Comunica SPARQL Query Engine with Shape-Index Support](https://github.com/constraintAutomaton/comunica-feature-link-traversal/tree/iswc2025)
 - [Query-Shape Subsumption Solver](https://github.com/constraintAutomaton/query-shape-detection/)
